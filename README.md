@@ -1,14 +1,14 @@
- Titanic Data Visualization
+# Sentiment Analysis
 
-This project visualizes the Titanic dataset using Python and Matplotlib.
+This project analyzes customer reviews and classifies them as Positive, Negative, or Neutral using TextBlob.
 
-Visualizations:
-1. Survival Count
-2. Survival Rate by Gender
-3. Survival Rate by Passenger Class
-4. Age Distribution
+Files:
+- reviews.csv
+- sentiment_analysis.py
+- sentiment_chart.png
 
 Tools Used:
 - Python
 - Pandas
+- TextBlob
 - Matplotlib
